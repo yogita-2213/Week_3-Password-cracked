@@ -82,6 +82,9 @@ Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab
 https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
 
 ## Step 2
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/cd12068d5196f6c227120428d9ab2d2c16dca821/Screenshot%202026-11-21%20101658.png)
+
+## Step 3
 Open the Networkwalks Hash Calculator in your web browser:
 
 ![image alt](
