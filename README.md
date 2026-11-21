@@ -51,4 +51,9 @@ This project is developed strictly for educational purposes and ethical cybersec
 Password Cracking With JTR
 ## Step 1:-
 Download John the Ripper After installation, open Johnny
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/e846bdd96b812e272b9e688b380019de72f0288e/Screenshot%202026-11-21%20101941.png)
+
+## Step 2
+Select John.exe:
+
 ![image alt](
