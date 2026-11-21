@@ -56,4 +56,9 @@ Download John the Ripper After installation, open Johnny
 ## Step 2
 Select John.exe:
 
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/661b4bb84263ee2707b4b58b562bfee2cf623e9b/Screenshot%202026-11-21%20102003.png)
+
+## Step 3
+Open the hash website & upload your pdf file to find its hash:
+
 ![image alt](
