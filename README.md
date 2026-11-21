@@ -94,4 +94,9 @@ Paste the hash value into the Password Cracker and start the attack. The tool wi
 passwords until it finds a match.
 Wait for the tool to finish. The cracked password will be shown on the screen.
 
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/ff6f984520f030a065d3b410b6726695f88e1341/Screenshot%202026-11-21%20101504.png)
+
+## Step 5
+Open the locked PDF file and enter the cracked password.
+
 ![image alt](
