@@ -71,4 +71,17 @@ Select & copy the hash value:
 ## Step 5
 Browse to the hash1.txt file that you have just saved & click on Open:
 
-![image alt]()
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/9fa5be00bd0d6d5b138a7f46072f523ec65c89c7/Screenshot%202026-11-21%20102119.png)
+
+
+## Project 2
+password Cracking With Networkwalks 
+
+## Step 1
+Download the encrypted PDF file (My Locked PDF1.pdf) to your laptop from the lab page:
+https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/
+
+## Step 2
+Open the Networkwalks Hash Calculator in your web browser:
+
+![image alt](
