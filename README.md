@@ -85,6 +85,13 @@ https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-to
 ![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/cd12068d5196f6c227120428d9ab2d2c16dca821/Screenshot%202026-11-21%20101658.png)
 
 ## Step 3
-Open the Networkwalks Hash Calculator in your web browser:
+Open the Networkwalks Hash Calculator in your web browser and copy hash value:
+
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/82d21d15184d7d4a21d25c0b6a5e214f83f0c55e/Screenshot%202026-11-21%20101720.png)
+
+## Step 4
+Paste the hash value into the Password Cracker and start the attack. The tool will try different
+passwords until it finds a match.
+Wait for the tool to finish. The cracked password will be shown on the screen.
 
 ![image alt](
