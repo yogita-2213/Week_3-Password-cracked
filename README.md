@@ -73,6 +73,9 @@ Browse to the hash1.txt file that you have just saved & click on Open:
 
 ![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/9fa5be00bd0d6d5b138a7f46072f523ec65c89c7/Screenshot%202026-11-21%20102119.png)
 
+## Step 6
+Capture Your Flag
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/eea8d59d804f713f9be2d75a45a7164fa13d6935/Screenshot%202026-11-21%20101632.png)
 
 ## Project 2
 password Cracking With Networkwalks 
@@ -98,5 +101,6 @@ Wait for the tool to finish. The cracked password will be shown on the screen.
 
 ## Step 5
 Open the locked PDF file and enter the cracked password.
+Your PDF file will open. You have completed the lab.
 
-![image alt](
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/eea8d59d804f713f9be2d75a45a7164fa13d6935/Screenshot%202026-11-21%20101632.png)
