@@ -61,4 +61,9 @@ Select John.exe:
 ## Step 3
 Open the hash website & upload your pdf file to find its hash:
 
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/8140888dab057aabe060e6de5c538b618e7c9396/Screenshot%202026-11-21%20102034.png)
+
+## Step 4
+Select & copy the hash value:
+
 ![image alt](
