@@ -66,4 +66,9 @@ Open the hash website & upload your pdf file to find its hash:
 ## Step 4
 Select & copy the hash value:
 
-![image alt](
+![image alt](https://github.com/yogita-2213/Week_3-Password-cracked/blob/17c3f6c9b2ec942ba690bdcfc84cadd8ccb493af/Screenshot%202026-11-21%20102050.png)
+
+## Step 5
+Browse to the hash1.txt file that you have just saved & click on Open:
+
+![image alt]()
